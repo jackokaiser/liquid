@@ -1,0 +1,9 @@
+ConnPlotter==0.7a0
+lazyarray==0.2.8
+liquid==1.0
+neo==0.3.3
+numpy==1.10.4
+PyNEST==2.8.0
+PyNN==0.8.0
+quantities===0-unknown
+Topology==2.8.0

@@ -1,3 +1,4 @@
+import pyNN.nest as sim
 from eventsMock import Event, EventArray
 
 def main():
