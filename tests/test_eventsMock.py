@@ -1,4 +1,4 @@
-from eventsMock import Event, EventArray
+from liquid.eventsMock import Event, EventArray
 import unittest
 
 class TestEventsMock(unittest.TestCase):
